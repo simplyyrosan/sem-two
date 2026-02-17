@@ -1,6 +1,6 @@
 package lab1;
 
-public class Q4 {
+public class Q04 {
 
     public static int z = 0;
 

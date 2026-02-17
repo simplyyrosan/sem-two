@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class Q9 {
+public class Q09 {
 
     public static double sumMajorDiagonal(double[][] m) {
         int sum = 0;

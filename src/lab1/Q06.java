@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class Q6 {
+public class Q06 {
     public static boolean isOdd(int n) {
         int b = n&1;
         return (b == 1);
