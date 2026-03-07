@@ -18,8 +18,7 @@ public class Q10 {
             for (int i=0; i<3; i++) {
                 sum+=arr[i][j];
             }
-            System.out.println("Sum of the elements at column "+ j +" is " + sum);
+            System.out.println("Sum of the elements at column "+ j +" is " + sum); //hello 
         }
-        sc.close();
     }
 }

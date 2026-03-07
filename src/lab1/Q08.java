@@ -10,7 +10,7 @@ public class Q08 {
         System.out.print("Enter row and column of 2D array: ");
         int r = sc.nextInt(), c = sc.nextInt(), sum = 0;
         int[][] arr = new int[r][c];
-        System.err.print("Enter elements:");
+        System.out.print("Enter elements:");
         for (int i = 0; i<r; i++) {
             for (int j = 0; j<c; j++) {
                 arr[i][j] = sc.nextInt();

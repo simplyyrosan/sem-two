@@ -22,8 +22,8 @@ public class Q04 {
     }
 
     public static void main(String[] args) {
-        //char[] chars = {'c', 'a', 'r', 'b', 'o', 'n'};
-        char[] chars = {'c', 'a', 'r'};
+        char[] chars = {'c', 'a', 'r', 'b', 'o', 'n'};
+        //char[] chars = {'c', 'a', 'r'};
         
         boolean[] used = new boolean[chars.length];
 
