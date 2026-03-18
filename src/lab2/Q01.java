@@ -12,6 +12,7 @@ class Car {
 		model = sc.nextLine();
 		System.out.println("Enter year: ");
 		year = sc.nextInt();
+		sc.close();
     }
 
     void displayDetails() {
