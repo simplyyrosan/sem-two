@@ -12,7 +12,6 @@ class Complex {
 		real = sc.nextInt();
 		System.out.print("Enter imag: ");
 		imag = sc.nextInt();
-		sc.close();
 	}
 	
 	void display() {
