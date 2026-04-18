@@ -1,3 +1,16 @@
+/*
+Define a base class Vehicle with instance variables model and year. The instance variables are initialized
+through constructors. The prototype of the constructor is as below:
+    Vehicle (String, int)
+Define a derived class Car with additional instance variables carId and price. The instance variables are
+initialized through constructors. The prototype of the constructor is as below:
+    Car (String, int, int, double)
+Another instance method of the Car class is carDisplay () to display the information of car details.
+Write a program to:
+• Create an object of the Car class and initialize its values.
+• Display both the base class (Vehicle) and derived class (Car) details using the carDisplay () method
+ */
+
 package lab2;
 
 class Vehicle {

@@ -1,3 +1,23 @@
+/*
+Define a base class Shape with an instance variable color. The instance variable is initialized through the
+constructor. The prototype of the constructor is as below: Shape (String)
+Define two derived classes Circle and Rectangle, both inheriting from the Shape class.
+Class Circle:
+• Has an additional instance variable radius, initialized through the constructor.
+• The constructor prototype is: Circle (String, double)
+• A method area () to calculate the area of the circle: π * radius2.
+Class Rectangle:
+• Has two additional instance variables length and width, initialized through the constructor.
+• The constructor prototype is: Rectangle (String, double, double)
+• A method area () to calculate the area of the rectangle: length * width.
+Both the Circle and Rectangle classes should have a method display () to display the shape's details,
+including color and the area of the respective shape.
+Write a program to:
+1. Create objects for both Circle and Rectangle.
+2. Initialize their properties.
+3. Display their details using the display () method.
+ */
+
 package lab2;
 
 class Shape {
