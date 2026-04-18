@@ -1,5 +1,6 @@
 package lab2;
 
+// myInterface and studentTest package is created to run this program. 
 import lab2.studentTest.Test;
 
 public class Q10 {
