@@ -1,3 +1,12 @@
+/*
+Define a class called Complex with instance variables real, imag and instance methods
+• void setData ()
+• void display ()
+• public Complex add (Complex, Complex)
+Write the main method in a separate class to implement the addition of two complex number with the given
+method signature as above.
+ */
+
 package lab2;
 
 import java.util.*;

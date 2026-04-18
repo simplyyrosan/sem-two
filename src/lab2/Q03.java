@@ -1,3 +1,18 @@
+/*
+Define a class named Book with the following member variables:
+• bookId (an integer representing the unique ID of the book)
+• price (a double representing the price of the book)
+• quantity (an integer representing the quantity of books purchased)
+Additionally, include a static variable totalAmount to keep track of the total amount spent on all books.
+The class should have:
+• A parameterized constructor to initialize the bookId, price, and quantity. Note: Use “this”.
+• A displayDetails() method to print the details of the book (i.e., bookId, price, quantity).
+• A method to calculate and return the total cost for that book (price * quantity).
+• Update the static variable totalAmount to include the total cost of the book purchased.
+Now, write a separate Main class to simulate the purchasing of 5 different books. Display the details of each
+book, and finally, display the total amount spent on the purchase of all books.
+ */
+
 package lab2;
 
 import java.util.Scanner;
