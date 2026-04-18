@@ -1,6 +1,6 @@
 package lab3;
 
-public final class Q07{
+public class Q07{
 
     public static int factorial(int n) {
         // if (n < 0) {

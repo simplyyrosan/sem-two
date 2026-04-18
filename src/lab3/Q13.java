@@ -8,6 +8,6 @@ public class Q13 {
     }
 
     public static void main(String[] args) {
-        System.out.println(Conv(10, ""));
+        System.out.println(Conv(8, ""));
     }
 }
