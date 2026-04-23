@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class QH03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter lenght of arrays: ");
+        System.out.print("Enter length of arrays: ");
         int n = sc.nextInt();
         int[] a = new int[n], b = new int[n], c = new int[n];
 
